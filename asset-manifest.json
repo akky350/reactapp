@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/akky350/reactapp/static/css/main.e74cda0e.chunk.css",
+    "main.js": "/akky350/reactapp/static/js/main.9861e4ce.chunk.js",
+    "main.js.map": "/akky350/reactapp/static/js/main.9861e4ce.chunk.js.map",
+    "runtime-main.js": "/akky350/reactapp/static/js/runtime-main.8f393971.js",
+    "runtime-main.js.map": "/akky350/reactapp/static/js/runtime-main.8f393971.js.map",
+    "static/css/2.3e87256a.chunk.css": "/akky350/reactapp/static/css/2.3e87256a.chunk.css",
+    "static/js/2.35d55538.chunk.js": "/akky350/reactapp/static/js/2.35d55538.chunk.js",
+    "static/js/2.35d55538.chunk.js.map": "/akky350/reactapp/static/js/2.35d55538.chunk.js.map",
+    "index.html": "/akky350/reactapp/index.html",
+    "precache-manifest.1dd975d53441cdd6cd0dd151b17c2218.js": "/akky350/reactapp/precache-manifest.1dd975d53441cdd6cd0dd151b17c2218.js",
+    "service-worker.js": "/akky350/reactapp/service-worker.js",
+    "static/css/2.3e87256a.chunk.css.map": "/akky350/reactapp/static/css/2.3e87256a.chunk.css.map",
+    "static/css/main.e74cda0e.chunk.css.map": "/akky350/reactapp/static/css/main.e74cda0e.chunk.css.map",
+    "static/js/2.35d55538.chunk.js.LICENSE": "/akky350/reactapp/static/js/2.35d55538.chunk.js.LICENSE",
+    "static/media/logo.svg": "/akky350/reactapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f393971.js",
+    "static/css/2.3e87256a.chunk.css",
+    "static/js/2.35d55538.chunk.js",
+    "static/css/main.e74cda0e.chunk.css",
+    "static/js/main.9861e4ce.chunk.js"
+  ]
+}
